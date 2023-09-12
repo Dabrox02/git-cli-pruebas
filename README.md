@@ -19,3 +19,7 @@ Estructura de un *conventional commit*
 <p align="center">
 <img src="assets/conventional-commit.png" width="700">
 </p>
+
+#### Fuentes
+- [Conventional Commits](conventionalcommits.org/en/v1.0.0/)
+- [GitMoji](https://gitmoji.dev/)
